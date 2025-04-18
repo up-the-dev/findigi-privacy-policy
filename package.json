@@ -2,7 +2,8 @@
   "name": "findigi-privacy",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -s"
+    "start": "serve -s",
+    "build": "echo 'No build required for static site' && exit 0"
   },
   "dependencies": {
     "serve": "^14.2.0"
